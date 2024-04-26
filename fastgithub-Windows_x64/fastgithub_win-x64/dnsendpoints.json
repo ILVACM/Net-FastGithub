@@ -1,0 +1,58 @@
+[
+  {
+    "host": "update.code.visualstudio.com",
+    "port": 443
+  },
+  {
+    "host": "avatars.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "alive.github.com",
+    "port": 443
+  },
+  {
+    "host": "api.github.com",
+    "port": 443
+  },
+  {
+    "host": "github.githubassets.com",
+    "port": 443
+  },
+  {
+    "host": "github.com",
+    "port": 22
+  },
+  {
+    "host": "marketplace.visualstudio.com",
+    "port": 443
+  },
+  {
+    "host": "www.google-analytics.com",
+    "port": 443
+  },
+  {
+    "host": "collector.github.com",
+    "port": 443
+  },
+  {
+    "host": "education.github.com",
+    "port": 443
+  },
+  {
+    "host": "github.com",
+    "port": 443
+  },
+  {
+    "host": "dc.services.visualstudio.com",
+    "port": 443
+  },
+  {
+    "host": "fonts.geekzu.org",
+    "port": 443
+  },
+  {
+    "host": "xpaywalletcdn.azureedge.net",
+    "port": 443
+  }
+]
